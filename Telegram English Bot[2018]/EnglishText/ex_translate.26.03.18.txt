@@ -1,0 +1,42 @@
+﻿ex.115
+1. He says he will phone me in two days.
+2. He said he would phone me in two days.
+3. She says she will arrive at six.
+4. She said she would arrive at six.
+5. I think they will be working from two till seven on Friday.
+6. I thought they would be working from two till seven on Friday.
+7. He is sure he will have finished translating by the evening.
+8. He was sure he would have finished translating by the evening.
+9. We suppose Beth will play the piano at six o'clock.
+10. They were sure he would have arrived by nine o'clock.
+11. He understood she would never have forgotten him.
+12. We believe we will pass our exam.
+13. I heard Nick would have returned by Sunday.
+14. We knew he would bring good music.
+15. I am sure he will help to get the party ready.
+16. She supposed she wouldn't jump to conclusions.
+17. I hope you will not jump to conclusions.
+18. We were sure our child will be sleeping at ten o'clock.
+19. My brother was sure his wife would have cooked dinner by his coming.
+20. She was afraid her son wouldn't remember about her.
+
+1. Он говорит, что наберет меня через два дня.
+2. Он сказал, что наберет меня через два дня.
+3. Она говорит, что приедет в шесть часов.
+4. Она сказала, что приедет в шесть часов.
+5. Я думаю, что они будут работать с двух до семи часов.
+6. Я думал, что они работали с двух до семи часов.
+7. Он уверен, что закончит перевод до вечера.
+8. Он был уверен, что закончит перевод до вечера.
+9. Мы преполагаем, что Бет будет играть на пианино в шесть часов.
+10. Они были уверены, что он приедет до девяти часов.
+11. Он понял, что она никогда не забудет его.
+12. Мы верим, что сдадим наш экзамен.
+13. Я слышал, что Ник вернется до воскресенья.
+14. Мы знали, что он принесет хорошую музыку.
+15. Я уверен, что он поможет подготовить вечеринку.
+16. Она предполагала, что она не будет ждать его после работы.
+17. Я надеюсь, что ты не придете к выводам.
+18. Мы были уверены, что наш ребенок будет спать в десять часов.
+19. Мой брат был уверен, что его жена приготовит ужин до его прихода.
+20. Она боялась, что ее сын не вспомнит о ней.

@@ -1,0 +1,6 @@
+pyTelegramBotAPI==3.6.7
+selenium==3.141.0
+requests==2.7.0
+urllib3==1.25.9
+virtualenv==20.0.18
+weblib==0.1.30

@@ -1,0 +1,24 @@
+﻿1. It may be raining
+2. It may not be raining.
+3. It can’t be raining.
+4. Can it be raining?
+5. He may have already seen them.
+6. He may not have seen them.
+7. He can’t have seen them.
+8. He couldn’t have seen them.
+9. Can he have seen them?
+10. And where could he have seen them?
+11. They may be waiting for us.
+12. They may not be waiting for us.
+13. They can’t be waiting for us.
+14. Can they be waiting for us?
+15. And whom could they be waiting for?
+16. They couldn’t be waiting for us.
+17. I may probably go.
+18. I may probably stay at home.
+19. I might have lost the keys.
+20. It might have been much worse.
+21. The weather can’t be worse.
+22. I might stay with them.
+23. I could not disagreed with them.
+24. I couldn’t care less.
